@@ -17,7 +17,7 @@ Each project is beginner-friendly and focused on **hands-on learning**. Whether 
 Each project is explained step by step on the **One More Commit** channel.
 
 🔗 [Subscribe on YouTube](https://youtube.com/@OneMoreCommit)  
-🔗 [Follow on GitHub](https://github.com/YourGitHubUsername)
+🔗 [Follow on GitHub](https://github.com/OneMoreCommit-Dev)
 
 ## Contribute
 Feel free to fork, tweak, or enhance the code for your learning. Pull requests are welcome!
